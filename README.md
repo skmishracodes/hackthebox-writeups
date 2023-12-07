@@ -1,4 +1,4 @@
-# Hack The Box Writeup Repository
+# Hack The Box Writeup
 Welcome to my Hack The Box (HTB) writeup repository! This collection documents my solutions to various HTB challenges, providing insights into my penetration testing methodologies and strategies.
 
 ## Usage
